@@ -223,7 +223,7 @@ const data = [
   {
     text: "Debating Workshop NITC x NITA",
     link: "https://forms.gle/HBsP8NHZiXTcBG9Y9",
-    icontype: "website2",
+    icontype: "none",
   },
   {
     text: "HONIT - Dr. Vrinda Varma",
