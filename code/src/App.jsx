@@ -221,6 +221,11 @@ export default App;
 
 const data = [
   {
+    text: "Debating Workshop NITC x NITA",
+    link: "https://forms.gle/HBsP8NHZiXTcBG9Y9",
+    icontype: "website2",
+  },
+  {
     text: "HONIT - Dr. Vrinda Varma",
     link: "https://www.youtube.com/watch?v=QO30PoFe4Mg&t=1099s",
     icontype: "none",
