@@ -221,9 +221,9 @@ export default App;
 
 const data = [
   {
-    text: "Debating Workshop NITC x NITA",
-    link: "https://forms.gle/HBsP8NHZiXTcBG9Y9",
-    icontype: "none",
+    text: "Bookmate 2025",
+    link: "https://bookmate.lndnitc.org/",
+    icontype: "book",
   },
   {
     text: "HONIT - Dr. Vrinda Varma",
