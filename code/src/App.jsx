@@ -193,7 +193,7 @@ function App() {
         {/*This is a line*/}
         <div className="absolute top-2 text-lg left-[2px] text-orange-200  ">
           <p className=" " style={{ writingMode: "vertical-rl" }}>
-            The Literary and Deabting Club NITC
+            The Literary and Debating Club NITC
           </p>
         </div>
         <img
@@ -221,9 +221,9 @@ export default App;
 
 const data = [
   {
-    text: "Bookmate 2025",
-    link: "https://bookmate.lndnitc.org/",
-    icontype: "book",
+    text: "HONIT - Mr. Shaji Poyilil",
+    link: "https://www.youtube.com/watch?v=aCow69EXFa0/",
+    icontype: "none",
   },
   {
     text: "HONIT - Dr. Vrinda Varma",
