@@ -221,7 +221,7 @@ export default App;
 
 const data = [
   {
-    text: "Bataille de Mots",
+    text: "Register - Bataille de Mots",
     link: "https://forms.gle/UpSkGbyNvepK5opV7",
     icontype: "none",
   },
