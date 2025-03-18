@@ -221,6 +221,11 @@ export default App;
 
 const data = [
   {
+    text: "Bataille de Mots",
+    link: "https://forms.gle/UpSkGbyNvepK5opV7",
+    icontype: "none",
+  },
+  {
     text: "HONIT - Mr. Shaji Poyilil",
     link: "https://www.youtube.com/watch?v=aCow69EXFa0/",
     icontype: "none",
