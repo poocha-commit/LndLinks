@@ -221,8 +221,8 @@ export default App;
 
 const data = [
   {
-    text: "Register - Bataille de Mots",
-    link: "https://forms.gle/UpSkGbyNvepK5opV7",
+    text: "Protagonist - Dr. Newton Luiz",
+    link: "meet.google.com/pqi-mood-dco",
     icontype: "none",
   },
   {
