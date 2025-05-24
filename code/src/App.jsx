@@ -221,7 +221,7 @@ export default App;
 
 const data = [
   {
-    text: "Protagonist - Dr. Newton Luiz",
+    text: "Protagonist-Dr. Newton Luiz",
     link: "meet.google.com/pqi-mood-dco",
     icontype: "none",
   },
