@@ -226,13 +226,13 @@ const data = [
     icontype: "none",
   },
   {
-    text: "HONIT - Mr. Shaji Poyilil",
-    link: "https://www.youtube.com/watch?v=aCow69EXFa0/",
+    text: "HONIT - Jameela Chechi",
+    link: "https://www.youtube.com/watch?v=iti42LVFAR0",
     icontype: "none",
   },
   {
-    text: "HONIT - Dr. Vrinda Varma",
-    link: "https://www.youtube.com/watch?v=QO30PoFe4Mg&t=1099s",
+    text: "HONIT - Mr. Shaji Poyilil",
+    link: "https://www.youtube.com/watch?v=aCow69EXFa0/",
     icontype: "none",
   },
   {
