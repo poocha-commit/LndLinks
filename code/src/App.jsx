@@ -221,11 +221,6 @@ export default App;
 
 const data = [
   {
-    text: "Protagonist-Dr. Newton Luiz",
-    link: "http://meet.google.com/pqi-mood-dco",
-    icontype: "none",
-  },
-  {
     text: "HONIT - Jameela Chechi",
     link: "https://www.youtube.com/watch?v=iti42LVFAR0",
     icontype: "none",
