@@ -220,14 +220,14 @@ function App() {
 export default App;
 
 const data = [
-  {
-    text: "HONIT - Jameela Chechi",
-    link: "https://www.youtube.com/watch?v=iti42LVFAR0",
+   {
+    text: "Disputatio - Open Debate",
+    link: "https://forms.gle/YbWA7CKEKyDBJhEe7/",
     icontype: "none",
   },
   {
-    text: "HONIT - Mr. Shaji Poyilil",
-    link: "https://www.youtube.com/watch?v=aCow69EXFa0/",
+    text: "HONIT - Jameela Chechi",
+    link: "https://www.youtube.com/watch?v=iti42LVFAR0",
     icontype: "none",
   },
   {
